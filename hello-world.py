@@ -1,3 +1,4 @@
 print("Hello World!")
 nome = "Breno"
-print(f"O meu nome é {nome}")
+idade = 20
+print(f"O meu nome é {nome} e eu tenho {idade} anos")
